@@ -1,23 +1,31 @@
-import logo from './logo.svg';
 import './App.css';
+import JSX from './jsx';
+import Prop1 from './props/Props1';
+import Pessoa from './props/Pessoa';
 
 function App() {
+
+  const nome = "Passando para a props como um variavel" 
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+    <JSX />
+    <Prop1 nome="João gabriel"/>
+    <Prop1 nome="Pedro"/>
+    <Prop1 nome={nome}/>
+    <br></br>
+    <Pessoa 
+    nome="joão gabriel"
+    idade="26"
+    profissao="programador"
+    sexo="masculino"
+    />
+    <br></br>
+    <Pessoa
+    nome="pedro"
+    idade="22"
+    profissao="programador"
+    sexo="masculino"
+    />
     </div>
   );
 }
