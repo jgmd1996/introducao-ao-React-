@@ -3,32 +3,16 @@ import JSX from './jsx';
 import Prop1 from './props/Props1';
 import Pessoa from './props/Pessoa';
 import List from './props/List';
+import Evento from './eventos/Evento';
+import Form from './eventos/Form';
 
 function App() {
 
-  const nome = "Passando para a props como um variavel" 
+  
   return (
     <div>
-    <JSX />
-    <Prop1 nome="João gabriel"/>
-    <Prop1 nome="Pedro"/>
-    <Prop1 nome={nome}/>
-    <br></br>
-    <Pessoa 
-    nome="joão gabriel"
-    idade="26"
-    profissao="programador"
-    sexo="masculino"
-    />
-    <br></br>
-    <Pessoa
-    nome="pedro"
-    idade="22"
-    profissao="programador"
-    sexo="masculino"
-    />
-
-    <List />
+      <Evento numero={2}/>
+      <Form />
     </div>
   );
 }
