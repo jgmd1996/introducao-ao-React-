@@ -6,6 +6,9 @@ import List from './props/List';
 import Evento from './eventos/Evento';
 import Form from './eventos/Form';
 import Usestate from './eventos/Usestate';
+import Exercicio1 from './primeiraLista/Exercicio1';
+import Execicio2 from './primeiraLista/Exercicio2';
+
 
 function App() {
 
@@ -13,7 +16,10 @@ function App() {
   return (
     <div>
       {/* <Evento numero={2}/> */}
-     <Usestate />
+    
+     
+     <Execicio2 />
+     
     </div>
   );
 }
