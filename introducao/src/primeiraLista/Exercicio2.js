@@ -140,8 +140,8 @@ function Execicio2 () {
                     STRING
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoB"
+                    name="questao"
                     value="STRING"
                     onChange={(evento) => setQuestaoA(evento.target.value)}
                     />
@@ -151,10 +151,10 @@ function Execicio2 () {
                     NUMBER
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoB"
+                    name="questaoB"
                     value="NUMBER"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoB(evento.target.value)}
                     />
                     </th></tr>
 
@@ -186,10 +186,10 @@ function Execicio2 () {
                     STRING
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoC"
+                    name="questaoC"
                     value="STRING"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoC(evento.target.value)}
                     />
                     </th></tr>
 
@@ -197,10 +197,10 @@ function Execicio2 () {
                     NUMBER
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoC"
+                    name="questaoC"
                     value="NUMBER"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoC(evento.target.value)}
                     />
                     </th></tr>
 
@@ -232,10 +232,10 @@ function Execicio2 () {
                     STRING
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoD"
+                    name="questaoD"
                     value="STRING"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoD(evento.target.value)}
                     />
                     </th></tr>
 
@@ -243,10 +243,10 @@ function Execicio2 () {
                     NUMBER
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoD"
+                    name="questaoD"
                     value="NUMBER"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoD(evento.target.value)}
                     />
                     </th></tr>
 
@@ -278,10 +278,10 @@ function Execicio2 () {
                     STRING
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoE"
+                    name="questaoE"
                     value="STRING"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoE(evento.target.value)}
                     />
                     </th></tr>
 
@@ -289,10 +289,10 @@ function Execicio2 () {
                     NUMBER
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoE"
+                    name="questaoE"
                     value="NUMBER"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoE(evento.target.value)}
                     />
                     </th></tr>
 
@@ -324,10 +324,10 @@ function Execicio2 () {
                     STRING
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoF"
+                    name="questaoF"
                     value="STRING"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoF(evento.target.value)}
                     />
                     </th></tr>
 
@@ -335,10 +335,10 @@ function Execicio2 () {
                     NUMBER
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoF"
+                    name="questaoF"
                     value="NUMBER"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoF(evento.target.value)}
                     />
                     </th></tr>
 
@@ -370,10 +370,10 @@ function Execicio2 () {
                     STRING
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoG"
+                    name="questaoG"
                     value="STRING"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoG(evento.target.value)}
                     />
                     </th></tr>
 
@@ -381,10 +381,10 @@ function Execicio2 () {
                     NUMBER
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoG"
+                    name="questaoG"
                     value="NUMBER"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoG(evento.target.value)}
                     />
                     </th></tr>
 
@@ -416,10 +416,10 @@ function Execicio2 () {
                     STRING
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoH"
+                    name="questaoH"
                     value="STRING"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoH(evento.target.value)}
                     />
                     </th></tr>
 
@@ -427,10 +427,10 @@ function Execicio2 () {
                     NUMBER
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoH"
+                    name="questaoH"
                     value="NUMBER"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoH(evento.target.value)}
                     />
                     </th></tr>
 
@@ -462,10 +462,10 @@ function Execicio2 () {
                     STRING
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoI"
+                    name="questaoI"
                     value="STRING"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoI(evento.target.value)}
                     />
                     </th></tr>
 
@@ -473,10 +473,10 @@ function Execicio2 () {
                     NUMBER
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoI"
+                    name="questaoI"
                     value="NUMBER"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoI(evento.target.value)}
                     />
                     </th></tr>
 
@@ -508,10 +508,10 @@ function Execicio2 () {
                     STRING
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoJ"
+                    name="questaoJ"
                     value="STRING"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoJ(evento.target.value)}
                     />
                     </th></tr>
 
@@ -519,10 +519,10 @@ function Execicio2 () {
                     NUMBER
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoJ"
+                    name="questaoJ"
                     value="NUMBER"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoJ(evento.target.value)}
                     />
                     </th></tr>
 
@@ -554,10 +554,10 @@ function Execicio2 () {
                     STRING
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoK"
+                    name="questaoK"
                     value="STRING"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoK(evento.target.value)}
                     />
                     </th></tr>
 
@@ -565,10 +565,10 @@ function Execicio2 () {
                     NUMBER
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoK"
+                    name="questaoK"
                     value="NUMBER"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoK(evento.target.value)}
                     />
                     </th></tr>
 
@@ -600,10 +600,10 @@ function Execicio2 () {
                     STRING
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoL"
+                    name="questaoL"
                     value="STRING"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoL(evento.target.value)}
                     />
                     </th></tr>
 
@@ -611,10 +611,10 @@ function Execicio2 () {
                     NUMBER
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoL"
+                    name="questaoL"
                     value="NUMBER"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoL(evento.target.value)}
                     />
                     </th></tr>
 
@@ -646,10 +646,10 @@ function Execicio2 () {
                     STRING
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoM"
+                    name="questaoM"
                     value="STRING"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoM(evento.target.value)}
                     />
                     </th></tr>
 
@@ -657,10 +657,10 @@ function Execicio2 () {
                     NUMBER
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoM"
+                    name="questaoM"
                     value="NUMBER"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoM(evento.target.value)}
                     />
                     </th></tr>
 
@@ -692,10 +692,10 @@ function Execicio2 () {
                     STRING
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoN"
+                    name="questaoN"
                     value="STRING"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoN(evento.target.value)}
                     />
                     </th></tr>
 
@@ -703,10 +703,10 @@ function Execicio2 () {
                     NUMBER
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoN"
+                    name="questaoN"
                     value="NUMBER"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoN(evento.target.value)}
                     />
                     </th></tr>
 
@@ -738,10 +738,10 @@ function Execicio2 () {
                     STRING
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoO"
+                    name="questaoO"
                     value="STRING"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoO(evento.target.value)}
                     />
                     </th></tr>
 
@@ -749,10 +749,10 @@ function Execicio2 () {
                     NUMBER
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoO"
+                    name="questaoO"
                     value="NUMBER"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoO(evento.target.value)}
                     />
                     </th></tr>
 
@@ -784,10 +784,10 @@ function Execicio2 () {
                     STRING
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoP"
+                    name="questaoP"
                     value="STRING"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoP(evento.target.value)}
                     />
                     </th></tr>
 
@@ -795,10 +795,10 @@ function Execicio2 () {
                     NUMBER
                     <input 
                     type="RADIO" 
-                    id="questaoA"
-                    name="questaoA"
+                    id="questaoP"
+                    name="questaoP"
                     value="NUMBER"
-                    onChange={(evento) => setQuestaoA(evento.target.value)}
+                    onChange={(evento) => setQuestaoP(evento.target.value)}
                     />
                     </th></tr>
 
