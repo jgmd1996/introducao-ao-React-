@@ -8,17 +8,19 @@ import Form from './eventos/Form';
 import Usestate from './eventos/Usestate';
 import Exercicio1 from './primeiraLista/Exercicio1';
 import Execicio2 from './primeiraLista/Exercicio2';
+import PropsComState from './props/PropsComState';
+import CadastrarCliente from './FormComProps/CadastrarCliente';
+import { useState } from 'react';
 
 
 function App() {
 
-  
+
   return (
     <div>
-      {/* <Evento numero={2}/> */}
     
-     
-     <Execicio2 />
+    <CadastrarCliente />
+    
      
     </div>
   );
